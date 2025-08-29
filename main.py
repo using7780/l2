@@ -11,7 +11,7 @@ import nltk
 from textstat import flesch_reading_ease
 
 # تحميل بيانات NLTK (مرة واحدة تكفي)
-nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # -------------------------
 # إعدادات الملفات
